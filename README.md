@@ -14,6 +14,37 @@ A comprehensive tutorial covering:
 - Practical examples with real datasets
 - Performance comparisons and best practices
 
+### 2. K-Nearest Neighbors (KNN) - Complete Guide
+**File:** `02_k_nearest_neighbors.ipynb`
+
+An in-depth exploration covering:
+- KNN theory and lazy learning concepts
+- Distance metrics (Euclidean, Manhattan, Chebyshev)
+- Visual demonstrations of decision boundaries
+- Hyperparameter tuning and performance analysis
+- Practical examples with real datasets
+
+### 3. Random Forest - Complete Guide
+**File:** `03_random_forest.ipynb`
+
+A comprehensive guide covering:
+- Decision Trees as building blocks
+- Ensemble learning and Bootstrap Aggregating
+- Feature importance and selection
+- Hyperparameter tuning
+- Performance comparisons with single Decision Trees
+
+### 4. Decision Trees - Complete Guide
+**File:** `04_decision_trees.ipynb`
+
+A detailed tutorial covering:
+- Decision Tree theory and algorithms
+- Splitting criteria (Gini, Entropy, MSE)
+- Visual demonstrations and tree structure
+- Hyperparameter tuning and overfitting
+- Feature importance analysis
+- Comparison with Random Forest
+
 ## 🚀 Getting Started
 
 ### Prerequisites
