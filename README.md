@@ -56,6 +56,18 @@ A comprehensive guide covering:
 - Feature engineering applications
 - Performance comparisons and use cases
 
+### 6. McCulloch-Pitts Neuron - Interactive Guide
+**File:** `06_mcculloch_pitts_neuron.ipynb`
+
+An interactive tutorial covering:
+- McCulloch-Pitts neuron fundamentals and mathematical model
+- Interactive widgets with sliders and buttons for hands-on learning
+- Logical gates implementation (AND, OR, NOT, NAND, XOR)
+- Activation functions (Step, Sigmoid, ReLU) with visualizations
+- Multi-layer perceptron construction
+- Binary classification with real data
+- Historical significance and modern applications
+
 ## 🚀 Getting Started
 
 ### Prerequisites
