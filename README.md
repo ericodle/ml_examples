@@ -45,6 +45,17 @@ A detailed tutorial covering:
 - Feature importance analysis
 - Comparison with Random Forest
 
+### 5. Dimensionality Reduction - PCA and t-SNE
+**File:** `05_dimensionality_reduction.ipynb`
+
+A comprehensive guide covering:
+- PCA theory and mathematical foundations
+- t-SNE for non-linear dimensionality reduction
+- Visual demonstrations with real datasets
+- Parameter tuning and best practices
+- Feature engineering applications
+- Performance comparisons and use cases
+
 ## 🚀 Getting Started
 
 ### Prerequisites
